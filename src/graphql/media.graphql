@@ -1,0 +1,21 @@
+query media($page: Int!, $perPage: Int!, $search: String) {
+  Page(page: $page, perPage: $perPage) {
+    pageInfo {
+      total
+      perPage
+      currentPage
+      lastPage
+      hasNextPage
+    }
+    media(search: $search) {
+      ...Video
+    }
+  }
+}
+
+fragment Video on Media {
+  title { native, english }
+  description
+  siteUrl
+  coverImage { medium, color }
+}

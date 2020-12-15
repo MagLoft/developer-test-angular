@@ -1,0 +1,26 @@
+<div class="main">
+  <div class="card">
+    <div class="progress" [style.opacity]="1"><div class="indeterminate"></div></div>
+    <div class="card-content"><h1>Anime Videos</h1></div>
+    <div class="card-search">
+      <div class="token">SEARCH</div>
+    </div>
+    <div class="card-content">
+      <ul class="collection">
+        <li class="collection-item" *ngFor="let item of [1, 2, 3, 4, 5]">
+          <div class="placeholder">
+            <div class="image"></div>
+            <div class="content">
+              <div class="title"></div>
+              <div class="description"></div>
+              <div class="description"></div>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="card-footer">
+      <div class="token">PAGINATION</div>
+    </div>
+  </div>
+</div>
