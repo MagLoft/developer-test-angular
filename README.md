@@ -61,9 +61,12 @@ The following libraries and scaffolds have been added:
 1. Read these instructions and briefing carefully.
 2. Watch the <a href="https://cdn.magloft.com/recruitment/angular/briefing.mp4" target="_blank">briefing video</a>.
 3. *Optional:* <a href="https://calendly.com/tobias-strebitzer/developer-interview" target="_blank">Book a meeting</a> with me to clarify on any questions regarding the developer test and briefing.
-6. Work on the developer test. The test was designed to take around 3-4 hours of development.
-7. Once the implementation is completed, make sure all Lint tests are passing and the project builds (`ng build`) without warnings and compiler errors.
-8. Create a ZIP file of the project and email it to [tobias.strebitzer@magloft.com](mailto:tobias.strebitzer@magloft.com)
+4. Work on the developer test. Remember to keep track of the time you spend!! (important).
+5. Once the implementation is completed, make sure all Lint tests are passing and the project builds (`ng build`) without warnings and compiler errors.
+6. Create a ZIP file of the project and email it to [tobias.strebitzer@magloft.com](mailto:tobias.strebitzer@magloft.com) and [nick.martin@magloft.com](mailto:nick.martin@magloft.com)
+7. Include in your email:
+a) how many hours you spent
+b) was the test easy, moderate or hard. 
 
 ## Installation
 
