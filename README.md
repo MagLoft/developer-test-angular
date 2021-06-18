@@ -66,7 +66,16 @@ The following libraries and scaffolds have been added:
 6. Create a ZIP file of the project and email it to [tobias.strebitzer@magloft.com](mailto:tobias.strebitzer@magloft.com) and [nick.martin@magloft.com](mailto:nick.martin@magloft.com)
 7. Include in your email:
 a) how many hours you spent
-b) was the test easy, moderate or hard. 
+b) was the test easy, moderate or hard.
+
+## Bonus Tasks
+
+The following tasks are optional and should only be addressed once the test requirements are met. Choose any of the following bonus tasks, in no particular order:
+
+* **E2E Tests:** Implement end-to-end tests for relevant functionality of the app
+* **Continuous Integration:** Implement continnuous integration on a public fork of this github repository, to lint, test and compile the application
+* **PWA Features**: Implement various [PWA features](https://web.dev/progressive-web-apps/) like making the app installable, app shortcuts, offline capabilities, or native device sharing, using [Angular Service Workers](https://angular.io/guide/service-worker-intro).
+* **SSR**: Implement Server-side rendering using [Angular Universal](https://angular.io/guide/universal)
 
 ## Installation
 
